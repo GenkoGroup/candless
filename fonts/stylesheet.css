@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'CormorantGaramondLight';
+    src: url("CormorantGaramond/CormorantGaramond-Light.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondItalic';
+    src: url("CormorantGaramond/CormorantGaramond-Italic.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondLightItalic';
+    src: url("CormorantGaramond/CormorantGaramond-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondRegular';
+    src: url("CormorantGaramond/CormorantGaramond-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondMedium';
+    src: url("CormorantGaramond/CormorantGaramond-Medium.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondMediumItalic';
+    src: url("CormorantGaramond/CormorantGaramond-MediumItalic.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondSemiBold';
+    src: url("CormorantGaramond/CormorantGaramond-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondSemiBoldItalic';
+    src: url("CormorantGaramond/CormorantGaramond-SemiBoldItalic.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondBold';
+    src: url("CormorantGaramond/CormorantGaramond-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'CormorantGaramondBoldItalic';
+    src: url("CormorantGaramond/CormorantGaramond-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: 'IvarFineLight';
+    src: url("IvarFine/IvarFine-Light.ttf");
+}
+
+@font-face {
+    font-family: 'SimpleUniversalSculpture2';
+    src: url("SimpleUniversalSculpture/SimpleUniversalSculpture2.ttf");
+}
+
+@font-face {
+    font-family: 'Canela';
+    src: url('Canela/Canela-Light.eot');
+    src: url('Canela/Canela-Light.eot?#iefix') format('embedded-opentype'),
+    url('Canela/Canela-Light.woff2') format('woff2'),
+    url('Canela/Canela-Light.woff') format('woff'),
+    url('Canela/Canela-Light.ttf') format('truetype'),
+    url('Canela/Canela-Light.svg#Canela-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}

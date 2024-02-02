@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Favicon);
+      }
+
+      .cls-2 {
+        fill: #d19d69;
+        font-size: 56px;
+        font-family: IvarFine-Light, Ivar Fine;
+        font-weight: 300;
+      }
+    </style>
+    <clipPath id="clip-Favicon">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Favicon" class="cls-1">
+    <text id="US" class="cls-2" transform="translate(0.6 50)"><tspan x="0" y="0">US</tspan></text>
+  </g>
+</svg>
